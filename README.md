@@ -1,4 +1,4 @@
-# E-mail vendas
+# Vendas E-mail
 
 ### A partir de uma planilha do Excel, o projeto irá retirar dados específicos e enviará um e-mail personalizado ao usuário. Pode também enviar para diversos e-mails, alterando a lógica do código.
 
@@ -14,7 +14,7 @@
 
 ### Clone este repositório:
 
-### git clone https://github.com/joaometzdorf/email-vendas.git
+### git clone https://github.com/joaometzdorf/vendas-email.git
 
 ## Acesse o diretório do projeto:
 
